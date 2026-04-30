@@ -35,7 +35,6 @@
 | ⑤ | 返回主面板，点击 **开始答题** 即可自动答题 |
 | ⑥ | 可随时点击 **停止** 中断答题进程 |
 
-> 💡 推荐使用 **DeepSeek**（性价比高，速度快），去 [platform.deepseek.com](https://platform.deepseek.com) 注册获取 API Key。
 
 ---
 
